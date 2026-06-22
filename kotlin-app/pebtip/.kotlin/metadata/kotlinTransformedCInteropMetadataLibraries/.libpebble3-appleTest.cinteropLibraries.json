@@ -1,0 +1,52 @@
+[
+  {
+    "moduleId": "org.jetbrains.kotlinx:atomicfu:0.29.0",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/org.jetbrains.kotlinx-atomicfu-0.29.0-iosMain-cinterop/org.jetbrains.kotlinx_atomicfu-cinterop-interop-kCq7Ng.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "androidx.sqlite:sqlite-bundled:2.6.2",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/androidx.sqlite-sqlite-bundled-2.6.2-nativeMain-cinterop/androidx.sqlite_sqlite-bundled-cinterop-androidXBundledSqlite-dCYVRw.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-server-core:3.3.2",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.ktor-ktor-server-core-3.3.2-iosMain-cinterop/io.ktor_ktor-server-core-cinterop-host_common-wBPfxQ.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "co.touchlab:kermit-core:2.0.8",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/co.touchlab-kermit-core-2.0.8-iosMain-cinterop/co.touchlab_kermit-core-cinterop-os_log-Mv5SxQ.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "androidx.sqlite:sqlite-framework:2.6.2",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/androidx.sqlite-sqlite-framework-2.6.2-nativeMain-cinterop/androidx.sqlite_sqlite-framework-cinterop-sqlite3-5Ubkcg.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-utils:3.3.2",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.ktor-ktor-utils-3.3.2-iosMain-cinterop/io.ktor_ktor-utils-cinterop-threadUtils-DzKCCw.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-network:3.3.2",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.ktor-ktor-network-3.3.2-iosMain-cinterop/io.ktor_ktor-network-cinterop-network-SXD6Dg.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-network:3.3.2",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.ktor-ktor-network-3.3.2-iosMain-cinterop/io.ktor_ktor-network-cinterop-un-SXD6Dg.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "org.jetbrains.compose.ui:ui-uikit:1.9.3",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/org.jetbrains.compose.ui-ui-uikit-1.9.3-uikitMain-cinterop/org.jetbrains.compose.ui_ui-uikit-cinterop-utils-c6AlBg.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-io:3.3.2",
+    "file": "/Users/ulrikjohnsen/Master/pebtip/Code/pebtip/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.ktor-ktor-io-3.3.2-iosMain-cinterop/io.ktor_ktor-io-cinterop-mutex-biGPYQ.klib",
+    "sourceSetName": "iosMain"
+  }
+]

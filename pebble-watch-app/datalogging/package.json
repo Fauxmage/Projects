@@ -1,0 +1,37 @@
+{
+  "name": "datalogging",
+  "author": "MakeAwesomeHappen",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "datalogging",
+    "uuid": "35221a7e-8e56-421f-a5b2-3d87e515b1df",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk"
+    ],
+    "capabilities": [
+      "dataLogging"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "b_tstamp",
+      "batch_ctr",
+      "batry_lvl",
+      "sample_count",
+      "samples"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}

@@ -1,0 +1,6 @@
+scenario,sim_crashes,entries,suc_entr,warnings,result
+3,2,100,24,56,Success
+3,2,100,30,49,Success
+3,2,100,47,31,Success
+3,2,100,36,36,Success
+3,2,100,39,35,Success

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="blobannotations-jvm">
+    <output-path>$PROJECT_DIR$/libs/libpebblecommon/blobannotations/build/libs</output-path>
+    <root id="archive" name="blobannotations-jvm.jar">
+      <element id="module-output" name="libpebblecommon.blobannotations.jvmMain" />
+    </root>
+  </artifact>
+</component>

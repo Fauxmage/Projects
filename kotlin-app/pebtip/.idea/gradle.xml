@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/libs/libpebblecommon" name="libpebblecommon">
+                <projects>
+                  <project path="$PROJECT_DIR$/libs/libpebblecommon" />
+                  <project path="$PROJECT_DIR$/libs/libpebblecommon/blobannotations" />
+                  <project path="$PROJECT_DIR$/libs/libpebblecommon/blobdbgen" />
+                  <project path="$PROJECT_DIR$/libs/libpebblecommon/libpebble3" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/composeApp" />
+            <option value="$PROJECT_DIR$/libs/libpebblecommon" />
+            <option value="$PROJECT_DIR$/libs/libpebblecommon/blobannotations" />
+            <option value="$PROJECT_DIR$/libs/libpebblecommon/blobdbgen" />
+            <option value="$PROJECT_DIR$/libs/libpebblecommon/libpebble3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/format.ts","./src/main.tsx","./src/usefetch.ts","./src/vite-env.d.ts","./src/components/layout.tsx","./src/components/pagestate.tsx","./src/pages/batchstats.tsx","./src/pages/batterygraph.tsx","./src/pages/datatags.tsx","./src/pages/home.tsx","./src/pages/results.tsx"],"version":"5.9.3"}
